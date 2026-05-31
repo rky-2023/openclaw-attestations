@@ -2,10 +2,10 @@
   "date": "2026-05-30",
   "entry_count": 0,
   "first_ulid": null,
-  "generated_at": "2026-05-31T21:25:56+00:00",
+  "generated_at": "2026-05-31T21:33:17+00:00",
   "last_ulid": null,
   "leaf_hashes": [],
   "merkle_root": "sha256:0000000000000000000000000000000000000000000000000000000000000000",
-  "sig_attestation": "hmac-sha256:e4432c4b0f7ed16775b09f0aabc4ff37b173d8dd29dcd24bb2628548d7aa09a4",
+  "sig_attestation": "hmac-sha256:87b837f3af099ed08846d6b4498ea46bf4d591807bf17e1567d31057955cb651",
   "version": "1"
 }
